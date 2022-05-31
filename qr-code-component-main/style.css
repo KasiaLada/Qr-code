@@ -39,7 +39,7 @@ body
   margin-top: 15px;
 }
 
-.main-container h1{
+.QR-title {
   color: hsl(218, 44%, 22%);
   margin: 0;
   text-align: center;
